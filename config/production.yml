@@ -1,0 +1,7 @@
+db:
+  synchronize: true # Andrebbe messo ==> false
+  host: 'ec2-54-170-123-247.eu-west-1.compute.amazonaws.com'
+  username: 'kgdntitjtbktez'
+  password: 'd6f820265583ca296e3f880ee02d6c6c34b7479a011647ae5698b822eb928191'
+  database: 'd4cgh6nb8v87uh'
+
